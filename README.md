@@ -26,3 +26,9 @@ The system combines a robust **Object-Oriented (OOP)** architecture based on **S
 +------------------------------------+------------------------+----------------------+
 | 👤 Profile: test@caf.it | 🆔 Fiscal Code: CLNNDR95H15H501Z | 🏠 Via Roma 12, Milan  |
 +------------------------------------------------------------------------------------+
+
+Developer: Andrea Calanna
+
+Academy: Steve Jobs Academy (SJA)
+
+GitHub: andreacalanna01
